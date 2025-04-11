@@ -1,7 +1,10 @@
-console.log("Hola desDe JS");
+console.log("Hola desde JS");
 
 let botonLike = document.querySelectorAll(".like-boton");
     console.log(botonLike);
+
+let numerosLike = document.querySelectorAll(".numero-likes");
+console.log(numerosLike);
 
 //------------------------ PRIMER INTENTO -----------------------------
 //function likes(elemento){
@@ -10,10 +13,6 @@ let botonLike = document.querySelectorAll(".like-boton");
 //    num ++;
 //    numeroLikes == num;
 //}
-
-let numerosLike = document.querySelectorAll(".numero-likes");
-console.log(numerosLike);
-
 
 function llamar(){
     console.log("anda");
