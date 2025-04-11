@@ -3,6 +3,7 @@ console.log("Hola desDe JS");
 let botonLike = document.querySelectorAll(".like-boton");
     console.log(botonLike);
 
+//------------------------ PRIMER INTENTO -----------------------------
 //function likes(elemento){
 //    numerolikes = elemento.parentNode;
 //    num = numeroLikes.querySelector(".numero-likes")
